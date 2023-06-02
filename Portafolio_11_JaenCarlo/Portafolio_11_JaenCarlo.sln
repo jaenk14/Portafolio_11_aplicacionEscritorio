@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoEscritorio", "Formulario_Notas\ProyectoEscritorio.csproj", "{3765D8BA-03A1-4AA0-B773-C41BCF7C5AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{E78308A6-F7B4-48C3-92E1-4B843B263AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3765D8BA-03A1-4AA0-B773-C41BCF7C5AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3765D8BA-03A1-4AA0-B773-C41BCF7C5AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3765D8BA-03A1-4AA0-B773-C41BCF7C5AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3765D8BA-03A1-4AA0-B773-C41BCF7C5AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78308A6-F7B4-48C3-92E1-4B843B263AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78308A6-F7B4-48C3-92E1-4B843B263AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78308A6-F7B4-48C3-92E1-4B843B263AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78308A6-F7B4-48C3-92E1-4B843B263AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB1AF2A-C5F0-4CF4-8BE9-980E9FEE79A3}
+	EndGlobalSection
+EndGlobal

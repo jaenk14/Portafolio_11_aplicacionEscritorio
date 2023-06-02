@@ -1,0 +1,10 @@
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.deps.json
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.AssemblyReference.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfoInputs.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfo.cs
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.dll
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 11\Portafolio_11_JaenCarlo\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.pdb
